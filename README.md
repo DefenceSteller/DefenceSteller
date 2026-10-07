@@ -4,9 +4,9 @@
 
 **Full-Stack Software Developer**
 
-![LinkedIn](https://img.shields.io/badge/[LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white](https://www.linkedin.com/in/haanie-muhammad-hashim-109574221/))
-![Email](haaniehashim@gmail.com)
-![GitHub](https://img.shields.io/badge/[GitHub-181717?style=flat-square&logo=github&logoColor=white](https://github.com/DefenceSteller))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haanie-muhammad-hashim-109574221/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:haaniehashim@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DefenceSteller)
 
 </div>
 
@@ -56,6 +56,13 @@ I care about clean architecture, strong validation at every boundary, and shippi
 <td>E-commerce application built with PHP.</td>
 </tr>
 </table>
+
+---
+
+## 📫 Contact
+
+- **Email:** [haaniehashim@gmail.com](mailto:haaniehashim@gmail.com)
+- **LinkedIn:** [haanie-muhammad-hashim](https://www.linkedin.com/in/haanie-muhammad-hashim-109574221/)
 
 ---
 
